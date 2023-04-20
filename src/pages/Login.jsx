@@ -27,7 +27,7 @@ const Login = () => {
   return (
     <div className='container-fluid'>
       <div className='row justify-content-center'>
-        <h1 className='text-center'>Login</h1>
+        <h1 className='text-center'>Login con cambios</h1>
         <div className='col-4'>
           <form className='mt-5' onSubmit={handleSubmit}>
             <div className="mb-3">
